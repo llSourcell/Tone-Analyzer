@@ -1,6 +1,6 @@
 Overview
 ============
-This is a Tone Analyzer demo written in Javascript using Node.js. This is the code for the Tone Analysis Episode of Fresh Machine Learning on [Youtube](https://youtu.be/_ZqB9zUgi2w). The code is a simple node.js web app. It creates an HTML form for the user to submit some text on the index page. Once they hit submit, it will use that text as a parameter and query the [Watson Tone Analyzer API](http://www.ibm.com/watson/developercloud/tone-analyzer.html). The API will return the tone analysis as JSON that you can view in terminal. 
+This is a Tone Analyzer demo written in Javascript using Node.js. This is the code for the Tone Analysis Episode of Fresh Machine Learning #3 on [Youtube](https://youtu.be/_ZqB9zUgi2w). The code is a simple node.js web app. It creates an HTML form for the user to submit some text on the index page. Once they hit submit, it will use that text as a parameter and query the [Watson Tone Analyzer API](http://www.ibm.com/watson/developercloud/tone-analyzer.html). The API will return the tone analysis as JSON that you can view in terminal. 
 
 Dependencies
 ============
