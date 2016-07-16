@@ -28,8 +28,8 @@ app.post('/', function(req, res){
     //Create a tone analyzer variable using credentials from your Bluemix account 
     //www.ibm.com/cloud-computing/bluemix/
     var tone_analyzer = watson.tone_analyzer({
-        username: 'c8bdb31c-3450-40a8-9c4e-d075fbfd9f58',
-        password: '2QOLsLC5GEV5',
+        username: 'XXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX',
+        password: 'XXXXXXXXXXX',
         version: 'v3',
         version_date: '2016-05-19'
     });
